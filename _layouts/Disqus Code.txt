@@ -1,0 +1,6 @@
+{% if site.disqus-identifier %}
+      {% include show-disqus.html %}
+    {% endif %}
+	
+	
+	
