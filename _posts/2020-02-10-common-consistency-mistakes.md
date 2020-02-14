@@ -2,7 +2,7 @@
 layout: post
 title: Common Consistency Mistakes To Avoid While Writing Content
 canonical_url: 'https://alphablogger.net/common-consistency-mistakes/'
-image: 'https://raw.githubusercontent.com/argumentativeyouth/pritams-portfolio/master/assets/img/common-consistency-mistakes-alphablogger.jpg'
+image: 'https://raw.githubusercontent.com/argumentativeyouth/pritams-portfolio/master/assets/img/consistency-mistakes.png'
 date: 2020-02-10
 ---
 Be it a blog post, a social media copy, a report, a case study, or content for anything else, the essence of what you have written, no matter how good it is, can get diluted if you are not consistent.
