@@ -2,7 +2,7 @@
 layout: post
 title: Intellectually Fierce And Brutally Honest
 canonical_url: 'https://blog.theonionsaint.com/intellectually-fierce-and-brutally-honest'
-image:
+image: https://raw.githubusercontent.com/argumentativeyouth/pritams-portfolio/master/assets/img/intellectually-fierce-and-brutally-honest.jpg
 date: 2019-04-23
 ---
 Earlier this month, my boss assigned a certain task to me. 
