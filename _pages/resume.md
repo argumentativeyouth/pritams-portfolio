@@ -132,7 +132,7 @@ image:
 <h4><strong>BE - Electronics & Communication (2008 - 2013) from Acharya Institute of Technology, Bangalore</strong></h4>
 <button class="accordion">Project</button>
 <div class="panel">
-  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+  <p>Virtual Mouse Using Eye Blink</p>
 </div>
 <p> </p>
 
