@@ -118,15 +118,15 @@ image:
 <h4><strong>MS Communication (2015 - 2017) From St. Joseph's College (Autonomous), Bangalore</strong></h4>
 <button class="accordion">Thesis</button>
 <div class="panel">
-  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+  <p>From Ayodhya To Kashmir Via Bombay: Portrayal of Muslims in Hindi Cinema Post Hindutva</p>
 </div>
 <button class="accordion">Papers</button>
 <div class="panel">
-  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+  <p>Participatory Behaviour of Indians in Using Facebook as a Platform for Political Engagement</p>
 </div>
 <button class="accordion">Other Projects</button>
 <div class="panel">
-  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+  <p><strong>The Argumentative Youth (www.argyouth.com):</strong>An online opinion platform of current affairs news minus the click bait</p>
 </div>
 <p> </p>
 <h4><strong>BE - Electronics & Communication (2008 - 2013) from Acharya Institute of Technology, Bangalore</strong></h4>
