@@ -260,6 +260,9 @@ table, th, td {
 
 
 <h3>Interests</h3>
+<table style="width:100%">
+<tr>
+<td>
 <button class="accordion">Reading</button>
 <div class="panel">
   <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
@@ -280,30 +283,22 @@ table, th, td {
 <div class="panel">
   <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
 </div>
+</td>
+</tr>
+</table>
 
 <h3>Social</h3>
+<table style="width:100%">
+<tr>
+<td>
 <p><i class="fa fa-linkedin-square" style="color:#000060;"></i> <a href="https://www.linkedin.com/in/pritamtheargumentativeyouth/" target="_blank">pritamtheargumentativeyouth</a></p>
 <p><i class="fa fa-twitter" style="color:#000060;"></i> <a href="https://twitter.com/prritam" target="_blank">@prritam</a></p>
 <p><i class="fa fa-medium" style="color:#000060;"></i> <a href="https://medium.com/@prritam" target="_blank">@prritam</a></p>
 <p><i class="fa fa-facebook" style="color:#000060;"></i> <a href="https://www.facebook.com/prritam" target="_blank">prritam</a></p>
 <p><i class="fa fa-instagram" style="color:#000060;"></i> <a href="https://www.instagram.com/murphyable/" target="_blank">murphyable</a></p>
-<p>Huhahahahaha</p>
-
-<button class="accordion">Section 2</button>
-<div class="panel">
-  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-</div>
-
-<button class="accordion">Education</button>
-<div class="panel">
-  <h3>MS Communication</h3>
-  <p><strong>St. Joseph's College (Autonomous), Bangalore - 2015-2017</strong></p>
-  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-  <h3>BE Electronics & Communication</h3>
-  <p><strong>Acharya Institute of Technology, Bangalore - 2008-2013</strong></p>
-  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-</div>
-
+</td>
+</tr>
+</table>
 <script>
 var acc = document.getElementsByClassName("accordion");
 var i;
