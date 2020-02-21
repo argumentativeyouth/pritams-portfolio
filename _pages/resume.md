@@ -51,11 +51,10 @@ image:
 
 <h2>Pritam - <em>Content Writer & Editor</em></h2>
 <p><em>A creative & technically oriented content writer/editor who believes in making a measurable impact in the industry!</em></p>
-
-
-<p>In this example we have added a "plus" sign to each button. When the user clicks on the button, the "plus" sign is replaced with a "minus" sign.</p>
+<p><i class="fa fa-envelope" style="color:#000060;"></i> hello@pritam.io</p>
+<p><i class="fa fa-phone" style="color:#000060;"></i> +91 7829171196</p>
 <h3>Work Experience</h3>
-<h4><strong>Content Writer & Editor (2017 - Present)</strong></h4>
+<h4><strong>a. Content Writer & Editor (2017 - Present)</strong></h4>
 <button class="accordion">Roles</button>
 <div class="panel">
   <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
@@ -69,7 +68,7 @@ image:
   <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
 </div>
 <p> </p>
-<h4><strong>Intern (2016)</strong></h4>
+<h4><strong>b. Intern (2016)</strong></h4>
 <button class="accordion">Roles</button>
 <div class="panel">
   <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
@@ -83,7 +82,7 @@ image:
   <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
 </div>
 <p> </p>
-<h4><strong>Graduate Trainee Engineer (2013 - 2014)</strong></h4>
+<h4><strong>c. Graduate Trainee Engineer (2013 - 2014)</strong></h4>
 <button class="accordion">Roles</button>
 <div class="panel">
   <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
@@ -97,7 +96,7 @@ image:
   <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
 </div>
 <p> </p>
-<h4><strong>Advisor (2013)</strong></h4>
+<h4><strong>d. Advisor (2013)</strong></h4>
 <button class="accordion">Roles</button>
 <div class="panel">
   <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
@@ -165,9 +164,6 @@ image:
   <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
 </div>
 
-<h3>Contact Details</h3>
-<p><i class="fa fa-envelope" style="color:#000060;"></i> hello@pritam.io</p>
-<p><i class="fa fa-phone" style="color:#000060;"></i> +91 7829171196</p>
 <h3>Social</h3>
 <p><i class="fa fa-linkedin-square" style="color:#000060;"></i> <a href="https://www.linkedin.com/in/pritamtheargumentativeyouth/" target="_blank">pritamtheargumentativeyouth</a></p>
 <p><i class="fa fa-twitter" style="color:#000060;"></i> <a href="https://twitter.com/prritam" target="_blank">@prritam</a></p>
