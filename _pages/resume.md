@@ -123,6 +123,9 @@ table, th, td {
 </tr>
 </table>
 <h3>Education</h3>
+<table style="width:100%">
+<tr>
+<td>
 <h4><strong>MS Communication (2015 - 2017)</strong></h4>
 <p><strong>St. Joseph's College (Autonomous), Bangalore</strong></p>
 <button class="accordion">Thesis</button>
@@ -145,10 +148,15 @@ table, th, td {
   <p>Virtual Mouse Using Eye Blink</p>
 </div>
 <p> </p>
-
+</td>
+</tr>
+</table>
 
 
 <h3>Skills</h3>
+<table style="width:100%">
+<tr>
+<td>
 <h4><strong>Digital Marketing</strong></h4>
 <button class="accordion">Blog Writing</button>
 <div class="panel">
@@ -225,8 +233,15 @@ table, th, td {
 <div class="panel">
   <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
 </div>
+</td>
+</tr>
+</table>
+
 
 <h3>Achievements</h3>
+<table style="width:100%">
+<tr>
+<td>
 <button class="accordion">Science Fair Projects</button>
 <div class="panel">
   <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
@@ -239,6 +254,9 @@ table, th, td {
 <div class="panel">
   <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
 </div>
+</td>
+</tr>
+</table>
 
 
 <h3>Interests</h3>
