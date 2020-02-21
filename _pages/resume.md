@@ -51,25 +51,7 @@ image:
 
 <h2>Pritam - <em>Content Writer & Editor</em></h2>
 <p><em>A creative & technically oriented content writer/editor who believes in making a measurable impact in the industry!</em></p>
-<table style="width:100%">
-  <tr>
-    <td width="50%"> <p><i class="fa fa-envelope" style="color:#000060;"></i> hello@pritam.io</p></td>
-    <td width="50%"> <p><i class="fa fa-phone" style="color:#000060;"></i> +91 7829171196</p></td>
-  </tr>
-  <tr>
-    <td width="50%"> <p><i class="fa fa-desktop" style="color:#000060;"></i> <a href="https://pritam.io" target="_blank">pritam.io</a>
-</p></td>
-    <td width="50%"> <p><i class="fa fa-linkedin-square" style="color:#000060;"></i> <a href="https://www.linkedin.com/in/pritamtheargumentativeyouth/" target="_blank">pritamtheargumentativeyouth</a></p></td>
-  </tr>
-  <tr>
-    <td width="50%"> <p><i class="fa fa-twitter" style="color:#000060;"></i> <a href="https://twitter.com/prritam" target="_blank">@prritam</a></p></td>
-    <td width="50%"> <p><i class="fa fa-medium" style="color:#000060;"></i> <a href="https://medium.com/@prritam" target="_blank">@prritam</a></p></td>
-  </tr> 
-  <tr>
-    <td width="50%"> <p><i class="fa fa-facebook" style="color:#000060;"></i> <a href="https://www.facebook.com/prritam" target="_blank">prritam</a></p></td>
-    <td width="50%"> <p><i class="fa fa-instagram" style="color:#000060;"></i> <a href="https://www.instagram.com/murphyable/" target="_blank">murphyable</a></p></td>
-  </tr>
-</table>
+
 
 <p>In this example we have added a "plus" sign to each button. When the user clicks on the button, the "plus" sign is replaced with a "minus" sign.</p>
 <h3>Work Experience</h3>
@@ -183,7 +165,15 @@ image:
   <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
 </div>
 
-
+<h3>Contact Details</h3>
+<p><i class="fa fa-envelope" style="color:#000060;"></i> hello@pritam.io</p>
+<p><i class="fa fa-phone" style="color:#000060;"></i> +91 7829171196</p>
+<h3>Social</h3>
+<p><i class="fa fa-linkedin-square" style="color:#000060;"></i> <a href="https://www.linkedin.com/in/pritamtheargumentativeyouth/" target="_blank">pritamtheargumentativeyouth</a></p>
+<p><i class="fa fa-twitter" style="color:#000060;"></i> <a href="https://twitter.com/prritam" target="_blank">@prritam</a></p>
+<p><i class="fa fa-medium" style="color:#000060;"></i> <a href="https://medium.com/@prritam" target="_blank">@prritam</a></p>
+<p><i class="fa fa-facebook" style="color:#000060;"></i> <a href="https://www.facebook.com/prritam" target="_blank">prritam</a></p>
+<p><i class="fa fa-instagram" style="color:#000060;"></i> <a href="https://www.instagram.com/murphyable/" target="_blank">murphyable</a></p>
 <p>Huhahahahaha</p>
 
 <button class="accordion">Section 2</button>
