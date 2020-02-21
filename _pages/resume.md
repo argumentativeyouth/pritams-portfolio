@@ -118,7 +118,7 @@ image:
 <h4><strong>MS Communication (2015 - 2017) From St. Joseph's College (Autonomous), Bangalore</strong></h4>
 <button class="accordion">Thesis</button>
 <div class="panel">
-  <p>From Ayodhya To Kashmir Via Bombay: Portrayal of Muslims in Hindi Cinema Post Hindutva</p>
+  <p><strong>From Ayodhya To Kashmir Via Bombay:</strong> Portrayal of Muslims in Hindi Cinema Post Hindutva</p>
 </div>
 <button class="accordion">Papers</button>
 <div class="panel">
@@ -126,7 +126,7 @@ image:
 </div>
 <button class="accordion">Other Projects</button>
 <div class="panel">
-  <p><strong>The Argumentative Youth (www.argyouth.com):</strong>An online opinion platform of current affairs news minus the click bait</p>
+  <p><strong>The Argumentative Youth (www.argyouth.com):</strong> An online opinion platform of current affairs news minus the click bait</p>
 </div>
 <p> </p>
 <h4><strong>BE - Electronics & Communication (2008 - 2013) from Acharya Institute of Technology, Bangalore</strong></h4>
