@@ -288,17 +288,13 @@ table, th, td {
 </table>
 
 <h3>Social</h3>
-<table style="width:100%">
-<tr>
-<td>
+<div style ="background-colour: #abcde6; colour: #000000;">
 <p><i class="fa fa-linkedin-square" style="color:#000060;"></i> <a href="https://www.linkedin.com/in/pritamtheargumentativeyouth/" target="_blank">pritamtheargumentativeyouth</a></p>
 <p><i class="fa fa-twitter" style="color:#000060;"></i> <a href="https://twitter.com/prritam" target="_blank">@prritam</a></p>
 <p><i class="fa fa-medium" style="color:#000060;"></i> <a href="https://medium.com/@prritam" target="_blank">@prritam</a></p>
 <p><i class="fa fa-facebook" style="color:#000060;"></i> <a href="https://www.facebook.com/prritam" target="_blank">prritam</a></p>
 <p><i class="fa fa-instagram" style="color:#000060;"></i> <a href="https://www.instagram.com/murphyable/" target="_blank">murphyable</a></p>
-</td>
-</tr>
-</table>
+</div>
 <script>
 var acc = document.getElementsByClassName("accordion");
 var i;
