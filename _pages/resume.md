@@ -9,10 +9,6 @@ image:
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <style>
-table, th, td {
-  border: 1px solid black;
-  border-collapse: collapse;
-}
 .accordion {
   background-color: #000060;
   color: #ffffff;
