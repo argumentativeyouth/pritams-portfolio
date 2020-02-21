@@ -68,7 +68,7 @@ image:
   <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
 </div>
 <p> </p>
-<h4><strong>b. Intern (2016)</strong></h4>
+<h4><strong>b. Intern at IBTimes UK (2016)</strong></h4>
 <button class="accordion">Roles</button>
 <div class="panel">
   <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
@@ -82,7 +82,7 @@ image:
   <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
 </div>
 <p> </p>
-<h4><strong>c. Graduate Trainee Engineer (2013 - 2014)</strong></h4>
+<h4><strong>c. Graduate Trainee Engineer at Aircel (2013 - 2014)</strong></h4>
 <button class="accordion">Roles</button>
 <div class="panel">
   <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
@@ -96,7 +96,7 @@ image:
   <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
 </div>
 <p> </p>
-<h4><strong>d. Advisor (2013)</strong></h4>
+<h4><strong>d. Advisor at [24]7 (2013)</strong></h4>
 <button class="accordion">Roles</button>
 <div class="panel">
   <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
@@ -112,7 +112,7 @@ image:
 <p> </p>
 
 <h3>Education</h3>
-<h4><strong>MS Communication (2015 - 2017)</strong></h4>
+<h4><strong>MS Communication (2015 - 2017) From St. Joseph's College (Autonomous), Bangalore</strong></h4>
 <button class="accordion">Thesis</button>
 <div class="panel">
   <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
@@ -126,7 +126,7 @@ image:
   <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
 </div>
 <p> </p>
-<h4><strong>BE - Electronics & Communication (2008 - 2013)</strong></h4>
+<h4><strong>BE - Electronics & Communication (2008 - 2013) from Acharya Institute of Technology, Bangalore</strong></h4>
 <button class="accordion">Project</button>
 <div class="panel">
   <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
