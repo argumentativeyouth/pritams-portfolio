@@ -49,7 +49,7 @@ image:
 </head>
 <body>
 
-<h2>Pritam</h2>
+<h2>Pritam - <em>Content Writer & Editor</em></h2>
 <h3>Content Writer & Editor</h3>
 <table style="width:100%">
   <tr>
