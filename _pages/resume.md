@@ -45,6 +45,9 @@ image:
   overflow: hidden;
   transition: max-height 0.2s ease-out;
 }
+table, th, td {
+  border: 1px #000060;
+}
 </style>
 </head>
 <body>
@@ -54,6 +57,9 @@ image:
 <p><i class="fa fa-envelope" style="color:#000060;"></i> hello@pritam.io</p>
 <p><i class="fa fa-phone" style="color:#000060;"></i> +91 7829171196</p>
 <h3>Work Experience</h3>
+<table style="width:100%">
+<tr>
+<td>
 <h4><strong>a. Content Writer & Editor (2017 - Present)</strong></h4>
 <button class="accordion">Roles</button>
 <div class="panel">
@@ -113,7 +119,9 @@ image:
   <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
 </div>
 <p> </p>
-
+</td>
+</tr>
+</table>
 <h3>Education</h3>
 <h4><strong>MS Communication (2015 - 2017)</strong></h4>
 <p><strong>St. Joseph's College (Autonomous), Bangalore</strong></p>
