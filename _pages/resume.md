@@ -46,7 +46,7 @@ image:
   transition: max-height 0.2s ease-out;
 }
 table, th, td {
-  border: 1px solid black;
+  border: 2px solid black;
 }
 </style>
 </head>
