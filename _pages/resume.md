@@ -50,7 +50,7 @@ image:
 <body>
 
 <h2>Pritam - <em>Content Writer & Editor</em></h2>
-<h3>Content Writer & Editor</h3>
+<p><strong>A creative & technically oriented content writer/editor who believes in making a measurable impact in the industry!</strong></p>
 <table style="width:100%">
   <tr>
     <td width="50%"> <p><i class="fa fa-envelope" style="color:#000060;"></i> hello@pritam.io</p></td>
