@@ -51,23 +51,23 @@ image:
 
 <h2>Pritam</h2>
 <h3>Content Writer & editor</h3>
-<table>
+<table style="width:100%">
   <tr>
-    <td> <p><i class="fa fa-envelope" style="color:#000060;"></i> hello@pritam.io</p></td>
-    <td> <p><i class="fa fa-phone" style="color:#000060;"></i> +91 7829171196</p></td>
+    <td width="50%"> <p><i class="fa fa-envelope" style="color:#000060;"></i> hello@pritam.io</p></td>
+    <td width="50%"> <p><i class="fa fa-phone" style="color:#000060;"></i> +91 7829171196</p></td>
   </tr>
   <tr>
-    <td> <p><i class="fa fa-desktop" style="color:#000060;"></i> <a href="https://pritam.io" target="_blank">pritam.io</a>
+    <td width="50%"> <p><i class="fa fa-desktop" style="color:#000060;"></i> <a href="https://pritam.io" target="_blank">pritam.io</a>
 </p></td>
-    <td> <p><i class="fa fa-linkedin-square" style="color:#000060;"></i> <a href="https://www.linkedin.com/in/pritamtheargumentativeyouth/" target="_blank">pritamtheargumentativeyouth</a></p></td>
+    <td width="50%"> <p><i class="fa fa-linkedin-square" style="color:#000060;"></i> <a href="https://www.linkedin.com/in/pritamtheargumentativeyouth/" target="_blank">pritamtheargumentativeyouth</a></p></td>
   </tr>
   <tr>
-    <td> <p><i class="fa fa-twitter" style="color:#000060;"></i> <a href="https://twitter.com/prritam" target="_blank">@prritam</a></p></td>
-    <td> <p><i class="fa fa-medium" style="color:#000060;"></i> <a href="https://medium.com/@prritam" target="_blank">@prritam</a></p></td>
+    <td width="50%"> <p><i class="fa fa-twitter" style="color:#000060;"></i> <a href="https://twitter.com/prritam" target="_blank">@prritam</a></p></td>
+    <td width="50%"> <p><i class="fa fa-medium" style="color:#000060;"></i> <a href="https://medium.com/@prritam" target="_blank">@prritam</a></p></td>
   </tr> 
   <tr>
-    <td> <p><i class="fa fa-facebook" style="color:#000060;"></i> <a href="https://www.facebook.com/prritam" target="_blank">prritam</a></p></td>
-    <td> <p><i class="fa fa-instagram" style="color:#000060;"></i> <a href="https://www.instagram.com/murphyable/" target="_blank">murphyable</a></p></td>
+    <td width="50%"> <p><i class="fa fa-facebook" style="color:#000060;"></i> <a href="https://www.facebook.com/prritam" target="_blank">prritam</a></p></td>
+    <td width="50%"> <p><i class="fa fa-instagram" style="color:#000060;"></i> <a href="https://www.instagram.com/murphyable/" target="_blank">murphyable</a></p></td>
   </tr>
 </table>
 
