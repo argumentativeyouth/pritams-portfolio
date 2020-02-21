@@ -48,7 +48,7 @@ image:
 </head>
 <body>
 
-<h2>Accordion with symbols</h2>
+<h2>Resume</h2>
 <p>In this example we have added a "plus" sign to each button. When the user clicks on the button, the "plus" sign is replaced with a "minus" sign.</p>
 <button class="accordion">Section 1</button>
 <div class="panel">
@@ -60,8 +60,10 @@ image:
   <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
 </div>
 
-<button class="accordion">Section 3</button>
+<button class="accordion">Education</button>
 <div class="panel">
+  <h3>MS Communication</h3>
+  <p><strong>St. Joseph's College (Autonomous) - 2015-2017</strong></p>
   <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
 </div>
 
