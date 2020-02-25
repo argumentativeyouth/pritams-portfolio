@@ -10,11 +10,18 @@
 }
 
 .author__img {
-      width: 80px;
-    margin-top: 30px;
-    margin-right: 15px;
-    margin-left: 20px;
-    float: left;
+  display: block;
+  max-width: 200px;
+  max-height: 200px;
+  margin: 0 auto 30px;
+  border-radius: 50%;
+  background-color: $gray-white;
+  transition: opacity 100ms ease;
+  &:hover {
+    .avatar {
+      opacity: 0.9;
+    }
+  }
 }
 
 .author__job {
