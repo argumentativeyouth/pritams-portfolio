@@ -63,7 +63,7 @@ table, th, td {
 <h4><strong> Content Writer & Editor (2017 - Present)</strong></h4>
 <button class="accordion">Roles</button>
 <div class="panel">
-  <p>- <strong>Content Editor: November 2018 to Present:</strong>As a Content Editor, I do the following:</p> 
+  <p>- <strong>Content Editor: November 2018 to Present:</strong> As a Content Editor, I do the following:</p> 
   <p>1. Review and edit articles written by 10+ content writers.</p>
   <p>2. Ensure the factual and grammatical correctness of the articles.</p>
   <p>3. Ensure that the best On-Page SEO practices are implemented in the articles.</p>
