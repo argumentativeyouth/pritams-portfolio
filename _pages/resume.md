@@ -76,7 +76,6 @@ table, th, td {
   <p>3. Wrote answers on Quora regarding preparation for various exams.</p>
   <p>4. Wr
   <p>- Intern: May 2017 to June 2017</p>
-</div>
   
 <button class="accordion">Achievements</button>
 <div class="panel">
