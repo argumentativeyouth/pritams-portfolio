@@ -219,29 +219,38 @@ table, th, td {
 <h4><strong>Tools & Tech</strong></h4>
 <button class="accordion">Basic HTML & CSS</button>
 <div class="panel">
-  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+  <p>Anything that is creative interests me. Also, I believe a basic knowledge of HTML and CSS is a must for bloggers and content writers. You can't rely on developers for minur issues.</p>
 </div>
 <button class="accordion">Google Analytics</button>
 <div class="panel">
-  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+  <p>As someone who is impact-driven, my work doesn't get over once I finish writing an article. I need to keep track of it constantly and see how it is performing.</p>
 </div>
 <button class="accordion">DITA</button>
 <div class="panel">
-  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+  <p>Although just started, this is something I really want to master as I am absolutely in love with technical writing and writing documentations.</p>
 </div>
 <button class="accordion">WordPress, Ghost & Other CMS</button>
 <div class="panel">
-  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+  <p>I am comfortable working with more than 40 Content Management Systems (CMS), including popular ones like WordPress and Ghost as well as with static site generators like Jekyll, Hugo, Hexo, and Gatsby..</p>
 </div>
 <button class="accordion">Tons Of SEO Tools</button>
 <div class="panel">
-  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+  <p>Over the past three years, I have been experimenting with scores of SEO tools (both free and paid), be it for keyword research, website analysis, competitor analysis, plagiarism check, etc. Some of my favourite tools are:</p>
+  <p>1. Backlinko</p>
+  <p>2. SEMrush</p>
+  <p>3. Pingdom</p>
+  <p>4. GT Matrix</p>
+  <p>5. Similar Web</p>
+  <p>6. Alexa</p>
+  <p>7. LSI Keywords</p>
+  <p>8. Google PageSpeed Insights...</p>
+  <p>The list goes on...</p>
 </div>
 
 <h4><strong>Computer Skills</strong></h4>
 <button class="accordion">Operating Systems</button>
 <div class="panel">
-  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+  <p>I am a Windows person.</p>
 </div>
 <button class="accordion">Software & Packages</button>
 <div class="panel">
