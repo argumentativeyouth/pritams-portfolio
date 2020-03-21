@@ -63,7 +63,9 @@ table, th, td {
 <h4><strong> Content Writer & Editor (2017 - Present)</strong></h4>
 <button class="accordion">Roles</button>
 <div class="panel">
-  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+  <p>- Content Editor: November 2018 to Present</p>
+  <p>- Content Writer: June 2017 to October 2018</p>
+  <p>- Intern: May 2017 to June 2017</p>
 </div>
 <button class="accordion">Achievements</button>
 <div class="panel">
