@@ -70,21 +70,32 @@ table, th, td {
   <p>4. Maintain the overall quality of the content.</p>
   <p>5. Ensure that the brand guidelines are followed.</p>
   <p>6. Train and mentor new writers.</p>
-  <p>- <strong>Content Writer: June 2017 to October 2018:</strong> This was the learning phase </p>
-  <p>1. Wrote articles for blog.</p>
-  <p>2. Wrote help articles explaining the products and how to use them.</p>
-  <p>3. Wrote answers on Quora regarding preparation for various exams.</p>
-  <p>4. Wr
-  <p>- Intern: May 2017 to June 2017</p>
+  <p>- <strong>Content Writer: June 2017 to October 2018:</strong> As a Content Writer, my job mainly included creating the following types of content:</p>
+  <p>1. News articles</p>
+  <p>2. Articles for blog</p>
+  <p>3. Answers on Quora regarding preparation for various exams</p>
+  <p>4. Help articles about the products and how to use them</p>
+  <p>5. Content for various pages of the website</p>
+  <p>6. Emails</p>
+  <p>7. Brochures</p>
+  <p>8. Intercom messages (for Customer Support)</p>
+  <p>- <strong>Intern: May 2017 to June 2017:</strong> I worked as an Intern only for a month after which I became a full-time employee of the organization. The internhip mainly involved writing answers on Quora. But I also worked on the following:</p>
+  <p>1. Help articles</p>
+  <p>2. Customer support</p>
  </div>
   
 <button class="accordion">Achievements</button>
 <div class="panel">
-  <p></p>
+<p>My achievements in different capacity in this organization are as under:</p>
+  <p>1. <strong>Editor:</strong> Reviewed, edited and published more than 1000 articles. Generated 16 million sessions within a span of 3 months.</p>
+  <p>2. <strong>Content Writer:</strong> Written around 400 articles and updated around 600 (articles written by ex-employees of the organization). Generated 5+ million sessions within a 3 months period.</p>
+  <p>3. Generated 1.3 million views on my answers on Quora.</p>
+  <p>4. Written around 200 help articles that have helped thousand of students and teachers.</p>
+  <p>5. Trained and mentored 10+ freshers who are creating amazing content.</p>
 </div>
 <button class="accordion">Learnings</button>
 <div class="panel">
-  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+  <p>Learning .</p>
 </div>
 <p> </p>
 <h4><strong> Intern (2016)</strong></h4>
@@ -143,22 +154,22 @@ table, th, td {
 <p><strong>St. Joseph's College (Autonomous), Bangalore</strong></p>
 <button class="accordion">Thesis</button>
 <div class="panel">
-  <p><strong>From Ayodhya To Kashmir Via Bombay:</strong> Portrayal of Muslims in Hindi Cinema Post Hindutva</p>
+  <p><strong>From Ayodhya To Kashmir Via Bombay:</strong> My thesis for Masters deals with the portrayal of Muslims in Hindi Cinema post Hindutva. Starting off with the various phases of Hindi cinema (like movies in Nehruvian era, Muslim Social, etc.), my paper moves on to the rise of Hindutva in the late 1980s-early 1990s and explains how this has impacted the portrayal of Muslims in Hindi Cinema. I have studied three films in details - Roza (1992), Bombay (1995), and Fanaa (2006).</p>
 </div>
 <button class="accordion">Papers</button>
 <div class="panel">
-  <p>Participatory Behaviour of Indians in Using Facebook as a Platform for Political Engagement</p>
+  <p><strong>Participatory Behaviour of Indians in Using Facebook as a Platform for Political Engagement:</strong> This is a quantitative study of how Indians use Facebook as a platform for political engagement.</p>
 </div>
 <button class="accordion">Other Projects</button>
 <div class="panel">
-  <p><strong>The Argumentative Youth (www.argyouth.com):</strong> An online opinion platform of current affairs news minus the click bait</p>
+  <p><strong>The Argumentative Youth (www.argyouth.com):</strong> My final semester project was an online platform of current affairs news minus the click bait. Here, I wrote detailed analysis of socio-political issues substantiating my claims with arguments and evidences.</p>
 </div>
 <p> </p>
 <h4><strong>BE - Electronics & Communication (2008 - 2013)</strong></h4>
 <p><strong>Acharya Institute of Technology, Bangalore</strong></p>
 <button class="accordion">Project</button>
 <div class="panel">
-  <p>Virtual Mouse Using Eye Blink</p>
+  <p><strong>Virtual Mouse Using Eye Blink:</strong> The purpose of this project, which I did with two of my other firends in my engineering final year, was mainly to help disabled people use computers. Blink your right eye and it's the right click of mouse. Blink your left eye and it's the left eye. Move the nose and the cursor on the screen moves. It was fun and taught me a bit about writing about technology.</p>
 </div>
 <p> </p>
 </td>
@@ -173,7 +184,7 @@ table, th, td {
 <h4><strong>Digital Marketing</strong></h4>
 <button class="accordion">Blog Writing</button>
 <div class="panel">
-  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+  <p>I have been sharing my thoughts, stories, and ideas on my blog for the past 10 years. However, I purchased the domain name quite recently. SEO writing is comparatively new to me with just three years of experience. But in these three years, I have written, updated and reviewed so many articles and generated so much traffic that many experienced writers haven't. You don't believe me? One of the writers working under me has six years of experience.</p>
 </div>
 <button class="accordion">Keyword Research</button>
 <div class="panel">
@@ -185,7 +196,7 @@ table, th, td {
 </div>
 <button class="accordion">Social Media - Quora</button>
 <div class="panel">
-  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+  <p>Of all Social Media, Quora is the one I love the most. People on Quora have a certain purpose - they know what exactly they are looking for and hence, the conversion rate is higher.</p>
 </div>
 <button class="accordion">On-Page SEO</button>
 <div class="panel">
@@ -201,7 +212,7 @@ table, th, td {
 </div>
 <button class="accordion">News Writing</button>
 <div class="panel">
-  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+  <p>During my Masters, we had to run a daily newspaper, under the guidance of renowned and experienced journalists. This has helped me develop a certain eye for news. I also continued writing news when I joined my present company. Despite my busy schedule as Editor, I still write news whenever possible.</p>
 </div>
 <p> </p>
 
