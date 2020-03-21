@@ -63,8 +63,8 @@ table, th, td {
 <h4><strong> Content Writer & Editor (2017 - Present)</strong></h4>
 <button class="accordion">Roles</button>
 <div class="panel">
-  <p>- **Content Editor: November 2018 to Present:**</p> 
-  <p>1. Review and edit articles written by 10+ content writers.</p> and </p>
+  <p>- <strong>Content Editor: November 2018 to Present:</strong></p> 
+  <p>1. Review and edit articles written by 10+ content writers.</p>
   <p>2. Make sure the factual and grammatical correctness of the articles.</p>
   <p>3. Ensure the best On-Page SEO practices are implemented in the articles.</p>
   <p>4. Maintain the overall quality of the content.</p>
