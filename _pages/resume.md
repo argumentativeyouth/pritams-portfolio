@@ -63,14 +63,18 @@ table, th, td {
 <h4><strong> Content Writer & Editor (2017 - Present)</strong></h4>
 <button class="accordion">Roles</button>
 <div class="panel">
-  <p>- <strong>Content Editor: November 2018 to Present:</strong></p> 
+  <p>- <strong>Content Editor: November 2018 to Present:</strong>As a Content Editor, I do the following:</p> 
   <p>1. Review and edit articles written by 10+ content writers.</p>
-  <p>2. Make sure the factual and grammatical correctness of the articles.</p>
-  <p>3. Ensure the best On-Page SEO practices are implemented in the articles.</p>
+  <p>2. Ensure the factual and grammatical correctness of the articles.</p>
+  <p>3. Ensure that the best On-Page SEO practices are implemented in the articles.</p>
   <p>4. Maintain the overall quality of the content.</p>
   <p>5. Ensure that the brand guidelines are followed.</p>
   <p>6. Train and mentor new writers.</p>
-  <p>- Content Writer: June 2017 to October 2018</p>
+  <p>- <strong>Content Writer: June 2017 to October 2018:</strong> This was the learning phase </p>
+  <p>1. Wrote articles for blog.</p>
+  <p>2. Wrote help articles explaining the products and how to use them.</p>
+  <p>3. Wrote answers on Quora regarding preparation for various exams.</p>
+  <p>4. Wr
   <p>- Intern: May 2017 to June 2017</p>
 </div>
 <button class="accordion">Achievements</button>
