@@ -88,7 +88,7 @@ table, th, td {
 <div class="panel">
 <p>My achievements in different capacity in this organization are as under:</p>
   <p>1. <strong>Editor:</strong> Reviewed, edited and published more than 1000 articles. Generated 16 million sessions within a span of 3 months.</p>
-  <p>2. <strong>Content Writer:</strong> Written around 400 articles and updated around 600 (articles written by ex-employees of the organization). Generated 5+ million sessions within a 3 months period.</p>
+  <p>2. <strong>Content Writer:</strong> Written around 400 articles and updated around 600 (articles written by ex-employees of the organization). Generated 5+ million sessions within a 3 months period.  75% of the articles written by me are in the top 10 position in SERP.</p>
   <p>3. Generated 1.3 million views on my answers on Quora.</p>
   <p>4. Written around 200 help articles that have helped thousand of students and teachers.</p>
   <p>5. Trained and mentored 10+ freshers who are creating amazing content.</p>
@@ -102,37 +102,37 @@ table, th, td {
 <p><strong>IBTimes UK</strong></p>
 <button class="accordion">Roles</button>
 <div class="panel">
-  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+  <p>The 8-week internship was part of my Masters and mostly involved desk work, like editing and stuff.</p>
 </div>
 <button class="accordion">Achievements</button>
 <div class="panel">
-  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+  <p>To be honest, there isn't anything to show from this particular internship.</p>
 </div>
 <button class="accordion">Learnings</button>
 <div class="panel">
-  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+  <p>This internship gave me a clear idea about how journalists do online research and write stories. Well, real journalism is more than that but my learnings at IBTimes UK has helped me a lot and shaped my research methodology as a Content Writer.</p>
 </div>
 <p> </p>
 <h4><strong> Graduate Trainee Engineer (2013 - 2014)</strong></h4>
 <p><strong>Aircel</strong></p>
 <button class="accordion">Roles</button>
 <div class="panel">
-  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+  <p>As a Graduate Trainee Engineer, my responsibility, in a nutshell, included supervision of of around 200 Aircel cellular towers in Barak Valley. I had to work with site managers and technicians and ensure everything is working fine.</p>
 </div>
 <button class="accordion">Achievements</button>
 <div class="panel">
-  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+  <p>Aircel network in Barak Valley had 99% uptime.</p>
 </div>
 <button class="accordion">Learnings</button>
 <div class="panel">
-  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+  <p>This wasn't actually a blue-collar job. It involved travelling to the remotest areas of Barak Valley. One of the best things that I learned in this job was managing people.</p>
 </div>
 <p> </p>
 <h4><strong> Advisor (2013)</strong></h4>
 <p><strong>[24]7</strong></p>
 <button class="accordion">Roles</button>
 <div class="panel">
-  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+  <p>As an Advisor, I worked for Expedia and hotels.com. I had to take calls from prospective customers,  understand their requirements, and find (and sell) hotel rooms as per their requirements</p>
 </div>
 <button class="accordion">Achievements</button>
 <div class="panel">
@@ -260,7 +260,7 @@ table, th, td {
 <h4><strong>Soft Skills</strong></h4>
 <button class="accordion">Presentation</button>
 <div class="panel">
-  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+  <p>I love to talk. And </p>
 </div>
 <button class="accordion">Training & Mentoring</button>
 <div class="panel">
