@@ -154,6 +154,42 @@ div.desc {
     <div class="desc">The Twin Towers</div>
   </div>
 </div>
+<div class="responsive">
+  <div class="gallery">
+      <img src="https://raw.githubusercontent.com/argumentativeyouth/pritams-portfolio/master/assets/img/revolution.png" alt="Long Live Revolution!" width="600" height="400">
+    <div class="desc">Long Live Revolution!</div>
+  </div>
+</div>
+<div class="responsive">
+  <div class="gallery">
+      <img src="https://raw.githubusercontent.com/argumentativeyouth/pritams-portfolio/master/assets/img/2.jpg" alt="The Maze Running Game" width="600" height="400">
+    <div class="desc">The Maze Running Game</div>
+  </div>
+</div>
+<div class="responsive">
+  <div class="gallery">
+      <img src="https://raw.githubusercontent.com/argumentativeyouth/pritams-portfolio/master/assets/img/3.jpg" alt="My Horizon" width="600" height="400">
+    <div class="desc">My Horizon</div>
+  </div>
+</div>
+<div class="responsive">
+  <div class="gallery">
+      <img src="https://raw.githubusercontent.com/argumentativeyouth/pritams-portfolio/master/assets/img/4.jpg" alt="Tacos" width="600" height="400">
+    <div class="desc">Tacos</div>
+  </div>
+</div>
+<div class="responsive">
+  <div class="gallery">
+      <img src="https://raw.githubusercontent.com/argumentativeyouth/pritams-portfolio/master/assets/img/5.jpg" alt="The Lost Morning Of Philomena Lee" width="600" height="400">
+    <div class="desc">The Lost Morning Of Philomena Lee</div>
+  </div>
+</div>
+<div class="responsive">
+  <div class="gallery">
+      <img src="https://raw.githubusercontent.com/argumentativeyouth/pritams-portfolio/master/assets/img/6.jpg" alt="Two Millenia" width="600" height="400">
+    <div class="desc">Two Millenia</div>
+  </div>
+</div>
 
 
 <div class="clearfix"></div>
