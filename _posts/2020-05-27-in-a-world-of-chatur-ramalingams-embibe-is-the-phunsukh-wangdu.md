@@ -2,7 +2,7 @@
 layout: post
 title: In A World Of Chatur Ramalingams, Embibe Is The Phunsukh Wangdu
 canonical_url: 'https://pritams.blog/in-a-world-of-chatur-ramalingams-embibe-is-the-phunsukh-wangdu'
-image: https://media-exp1.licdn.com/dms/image/C5612AQGoQKMhSe0Zrg/article-cover_image-shrink_720_1280/0?e=1597276800&v=beta&t=H2qca4qLiLp-1fOSGsjyMFxA4JH2JzJ2mZHwhie2rgo
+image: https://raw.githubusercontent.com/argumentativeyouth/pritams-portfolio/master/assets/img/0.jpg
 date: 2020-05-27
 ---
 
