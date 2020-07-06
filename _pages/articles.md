@@ -5,6 +5,7 @@ permalink: /articles/
 image: 
 ---
 ## Recent Articles
+* [Delivering Learning And Life Outcomes](https://pritam.io/delivering-learning-and-life-outcomes/)
 * [As A Serious Blogger, You Must Cater To These Three!](https://pritam.io/as-a-serious-blogger-you-must-cater-to-these-three)
 * [In A World Of Chatur Ramalingams, Embibe Is The Phunsukh Wangdu](https://pritam.io/in-a-world-of-chatur-ramalingams-embibe-is-the-phunsukh-wangdu/)
 * [11 Most Useful Apps For Your Smartphone - How I Make The Best Use Of My Smartphone?](https://pritam.io/most-useful-apps-for-your-smartphone/)
